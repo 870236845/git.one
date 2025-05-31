@@ -1,6 +1,6 @@
 my second test
 1st modefy
 2nd modefy
-3rd modeffy~~
+3rd 
 
-~~on mybranch  --4th modefy!
+~~on mybranch  --4th
